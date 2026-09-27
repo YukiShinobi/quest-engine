@@ -1,0 +1,9 @@
+{
+  "name": "quest-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Branching quest and objective state machine for game systems.",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
